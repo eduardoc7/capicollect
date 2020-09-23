@@ -28,6 +28,10 @@ body::after {
     align-items: center;
 }
 
+#page-search-results header img {
+    width: 13rem;
+}
+
 #page-search-results header a {
     color: var(--title-color);
     font-weight: bold;
@@ -80,7 +84,7 @@ main .card h1 {
     
     font-size: 36px;
     line-height: 41px;
-    color: #322153;
+    color: black;
 }
 
 main .card h3 {

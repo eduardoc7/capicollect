@@ -1,8 +1,8 @@
-# [TITULO PRINCIPAL]
-## [SUBTITULO] 
+# Projeto AEP - Universidade Cesumar - Curitiba
+## Capi Collect 
 
 ---
-[AQUI SERÁ ESCRITO UMA BREVE DESCRIÇÃO DO PROJETO, CONTENDO LINKS]
+O projeto Capi Collect está sendo desenvolvido pelos alunos do curso de Análise e Desenvolvimento de Sistemas, da UniCesumar Curitiba. Estabelecido como o seu principal objetivo resolver um problema social e ecológico da cidade de Curitiba. O projeto será uma aplicação web com responsividade mobile, onde será possível cadastrar e buscar pontos de coletas adequados para todos os tipos de resíduos presentes de forma eficiente, facilitando a vida das pessoas que precisam descartar seus resíduos. 
 
 ---
 
@@ -13,11 +13,12 @@
 ---
 ## 📚 Technologies
 
-This project was developed at the **[titulo]** by []() using the following technologies:
+This project was developed at the **AEP - UniCesumar** using the following technologies:
 
--  [ReactJS](https://reactjs.org/)
--  [Node.js](https://nodejs.org)
-
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
 ---
 # ▶ Usage
 
@@ -25,16 +26,18 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/eduardoc7/duflix.git
+$ git clone https://github.com/eduardoc7/capicollect.git
 
 
-# For web project (ReactJS)
-$ cd duflix
+# For web project (node)
+$ cd capicollect
 $ yarn or npm install
 $ yarn or npm start
 
+```
+---
 
 ## 📝 License
 
 Copyright © 2020 [Eduardo Cordeiro](https://github.com/eduardoc7).<br />
-This project is [MIT](https://github.com/eduardoc7/duflix/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/eduardoc7/capicollect/blob/master/LICENSE) licensed.

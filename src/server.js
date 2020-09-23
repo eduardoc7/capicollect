@@ -12,6 +12,7 @@ server.use(express.urlencoded({ extended: true }))
 
 
 // utilizando template engine
+// nunjunks utiliza o mesmo conceito do jinja2
 const nunjucks = require("nunjucks")
 nunjucks.configure("src/views", {
     express: server,

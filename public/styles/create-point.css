@@ -13,6 +13,10 @@
     align-items: center;
 }
 
+#page-create-point header img {
+    width: 13rem;
+}
+
 #page-create-point header a {
     color: var(--title-color);
     font-weight: bold;
@@ -134,7 +138,7 @@ form button {
 }
 
 form button:hover{
-    background-color: #2fb86e;
+    background-color: #3a7437;
 }
 
 .items-grid {
@@ -172,12 +176,12 @@ form button:hover{
     display: flex;
     align-items: center;
 
-    color: var(--title-color);
+    color: #034001;
 }
 
 .items-grid li.selected {
-    background: #e1faec;
-    border: 2px solid #34cb79;
+    background: #f5edea;
+    border: 2px solid #732C02;
 }
 
 .items-grid li img,
