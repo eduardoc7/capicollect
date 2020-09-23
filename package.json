@@ -1,8 +1,8 @@
 {
   "name": "nlw",
   "scripts": {
-    "build": "node src/server.js",
-    "start": "nodemon src/server.js"
+    "start": "node src/server.js",
+    "start2": "nodemon src/server.js"
   },
   "dependencies": {
     "express": "^4.17.1",
