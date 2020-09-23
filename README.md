@@ -40,4 +40,4 @@ $ yarn or npm start
 ## 📝 License
 
 Copyright © 2020 [Eduardo Cordeiro](https://github.com/eduardoc7).<br />
-This project is [MIT](https://github.com/eduardoc7/capicollect/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/eduardoc7/capicollect/blob/master/LICENSE.md) licensed.
