@@ -1,7 +1,8 @@
-
 #page-home {
     height: 100vh;
-
+    background: url("../../assets/home-background2.png") no-repeat bottom;
+    background-position: 40vw;
+    background-size: 60rem;
 }
 
 #page-home .content {
