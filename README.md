@@ -7,7 +7,7 @@ O projeto Capi Collect está sendo desenvolvido pelos alunos do curso de Anális
 ---
 
 <p align="center">
-    <img alt="CapiCollect Background" width="600px" src="https://raw.githubusercontent.com/eduardoc7/capicollect/master/public/assets/home-background2.png" />   
+    <img alt="CapiCollect Background" width="700px" src="https://raw.githubusercontent.com/eduardoc7/capicollect/master/public/assets/page.png" />   
 </p>
 
 ---
